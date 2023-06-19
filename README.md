@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Hi there 👋
+## Quem sou?
+Me chamo Carlos Gabriel Ferreira estou granduando no curso de tecnologia da informação na UFERSA 🙂
 <!--
 **GabasDev/GabasDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
