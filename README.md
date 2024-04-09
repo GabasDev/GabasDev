@@ -17,10 +17,8 @@
 #### Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/django-FFFFFF?style=for-the-badge&logo=django&logoColor=black)&nbsp;
 ![C](https://img.shields.io/badge/C-007ACC?style=for-the-badge&logo=C&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-993399?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/Csharp-9400d3?style=for-the-badge&logo=csharp&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-FF0000?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-ffff00?style=for-the-badge&logo=javascript&logoColor=000000)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -36,9 +34,6 @@
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
@@ -48,7 +43,7 @@
 <div> 
 <a href="https://www.instagram.com/gabriel_ferreira141" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/bruno-paiva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/gabriel-ferreira-6605b924a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
 </div>&nbsp;&nbsp;
   
