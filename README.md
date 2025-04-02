@@ -1,5 +1,5 @@
 
-<p align="center">Hello, my name is Carlos Gabriel Ferreira beginner in the area of ​​information technology.</p>&nbsp;
+<p align="center"><strong>Carlos Gabriel Ferreira</strong> — Driven by innovation, passionate about technology, and committed to excellence.</p>
 
 <div align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=brunopaiva1&theme=radical&mode=weekly" />
